@@ -5,7 +5,7 @@ This project focuses on detecting jackfruit ripeness using object detection with
 
 ## Features
 - Data preprocessing & TFRecord pipeline
-- Multi-model training (6 variants)
+- Multi-model training (8 variants)
 - Model evaluation (accuracy, confusion matrix, metrics)
 - Real-time detection using webcam
 
